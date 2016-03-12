@@ -15,7 +15,7 @@ It will also output the number of times fizz, buzz, fizzbuzz or an integer is in
 
 ## Installation
 
-* [Download(https://github.com/giusepped/FizzBuzzMVCApi/archive/master.zip)] a zipped version of the repo or clone it
+* [Download](https://github.com/giusepped/FizzBuzzMVCApi/archive/master.zip) a zipped version of the repo or clone it
 * Open the Project in Visual Studio
 * Build the solution
 * Run the project
