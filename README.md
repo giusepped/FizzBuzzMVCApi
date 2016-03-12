@@ -19,7 +19,7 @@ It will also output the number of times fizz, buzz, fizzbuzz or an integer is in
 * Open the Project in Visual Studio
 * Build the solution
 * Run the project
-* Append the desired range values to the address, e.g. ´http://localhost:50789/api/FizzBuzz/GetFizzBuzz/?start=2&end=25´
+* Append the desired range values to the address, e.g. `http://localhost:50789/api/FizzBuzz/GetFizzBuzz/?start=2&end=25`
 * Unit tests can be run from Visual Studio
 
 ## Output example
